@@ -1,4 +1,4 @@
-# Engeheiro de dados 
+# Engenheiro de dados 
 
 O Engenheiro de Dados é o responsável pela criação do pipeline que transforma os dados brutos que estão nos mais variados formatos *bancos realacionais, bancos não relacionais e base de dados físicas*, desde bancos de dados transacionais até arquivos de texto, em um formato que permita ao Cientista de Dados começar seu trabalho.
 
@@ -35,5 +35,9 @@ Ele precsa conhecer todos os bancos de dados utilizados.
 **relacional ou não relacional**
 
 
+O engenheiro precisa entender do negocio para poder saber que melhores ferramentas usar na hora de armazenar os dados! 
+Ele pode escolher um banco de dados relacional para uma parte do negocio e um não relacional para outra parte! 
 
+A palavra depende é muito importante. Pois tudo é contexto. 
+Depende do contexto para saber exatamente qual tipo de banco de dados utilizar para cada situação especifica!
 
